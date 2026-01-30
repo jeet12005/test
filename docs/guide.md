@@ -23,3 +23,11 @@
 - note 22: additional detail about this component.
 - note 23: additional detail about this component.
 - note 24: additional detail about this component.
+- note 25: additional detail about this component.
+- note 26: additional detail about this component.
+- note 27: additional detail about this component.
+- note 28: additional detail about this component.
+- note 29: additional detail about this component.
+- note 30: additional detail about this component.
+- note 31: additional detail about this component.
+- note 32: additional detail about this component.
