@@ -31,3 +31,10 @@
 - note 30: additional detail about this component.
 - note 31: additional detail about this component.
 - note 32: additional detail about this component.
+- note 33: additional detail about this component.
+- note 34: additional detail about this component.
+- note 35: additional detail about this component.
+- note 36: additional detail about this component.
+- note 37: additional detail about this component.
+- note 38: additional detail about this component.
+- note 39: additional detail about this component.
