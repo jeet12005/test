@@ -83,3 +83,15 @@
 # auto line 82 for tests/test_auth.py
 # auto line 83 for tests/test_auth.py
 # auto line 84 for tests/test_auth.py
+# auto line 85 for tests/test_auth.py
+# auto line 86 for tests/test_auth.py
+# auto line 87 for tests/test_auth.py
+# auto line 88 for tests/test_auth.py
+# auto line 89 for tests/test_auth.py
+# auto line 90 for tests/test_auth.py
+# auto line 91 for tests/test_auth.py
+# auto line 92 for tests/test_auth.py
+# auto line 93 for tests/test_auth.py
+# auto line 94 for tests/test_auth.py
+# auto line 95 for tests/test_auth.py
+# auto line 96 for tests/test_auth.py
