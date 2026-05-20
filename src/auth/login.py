@@ -349,3 +349,13 @@
 # auto line 348 for src/auth/login.py
 # auto line 349 for src/auth/login.py
 # auto line 350 for src/auth/login.py
+# auto line 351 for src/auth/login.py
+# auto line 352 for src/auth/login.py
+# auto line 353 for src/auth/login.py
+# auto line 354 for src/auth/login.py
+# auto line 355 for src/auth/login.py
+# auto line 356 for src/auth/login.py
+# auto line 357 for src/auth/login.py
+# auto line 358 for src/auth/login.py
+# auto line 359 for src/auth/login.py
+# auto line 360 for src/auth/login.py
