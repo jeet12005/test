@@ -73,3 +73,15 @@
 # auto line 72 for tests/test_api.py
 # auto line 73 for tests/test_api.py
 # auto line 74 for tests/test_api.py
+# auto line 75 for tests/test_api.py
+# auto line 76 for tests/test_api.py
+# auto line 77 for tests/test_api.py
+# auto line 78 for tests/test_api.py
+# auto line 79 for tests/test_api.py
+# auto line 80 for tests/test_api.py
+# auto line 81 for tests/test_api.py
+# auto line 82 for tests/test_api.py
+# auto line 83 for tests/test_api.py
+# auto line 84 for tests/test_api.py
+# auto line 85 for tests/test_api.py
+# auto line 86 for tests/test_api.py
