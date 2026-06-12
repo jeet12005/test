@@ -62,3 +62,12 @@
 - note 61: additional detail about this component.
 - note 62: additional detail about this component.
 - note 63: additional detail about this component.
+- note 64: additional detail about this component.
+- note 65: additional detail about this component.
+- note 66: additional detail about this component.
+- note 67: additional detail about this component.
+- note 68: additional detail about this component.
+- note 69: additional detail about this component.
+- note 70: additional detail about this component.
+- note 71: additional detail about this component.
+- note 72: additional detail about this component.
