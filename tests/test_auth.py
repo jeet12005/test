@@ -109,3 +109,13 @@
 # auto line 108 for tests/test_auth.py
 # auto line 109 for tests/test_auth.py
 # auto line 110 for tests/test_auth.py
+# auto line 111 for tests/test_auth.py
+# auto line 112 for tests/test_auth.py
+# auto line 113 for tests/test_auth.py
+# auto line 114 for tests/test_auth.py
+# auto line 115 for tests/test_auth.py
+# auto line 116 for tests/test_auth.py
+# auto line 117 for tests/test_auth.py
+# auto line 118 for tests/test_auth.py
+# auto line 119 for tests/test_auth.py
+# auto line 120 for tests/test_auth.py
