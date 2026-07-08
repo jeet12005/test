@@ -216,3 +216,9 @@
 - note 215: additional detail about this component.
 - note 216: additional detail about this component.
 - note 217: additional detail about this component.
+- note 218: additional detail about this component.
+- note 219: additional detail about this component.
+- note 220: additional detail about this component.
+- note 221: additional detail about this component.
+- note 222: additional detail about this component.
+- note 223: additional detail about this component.
