@@ -71,3 +71,9 @@
 - note 70: additional detail about this component.
 - note 71: additional detail about this component.
 - note 72: additional detail about this component.
+- note 73: additional detail about this component.
+- note 74: additional detail about this component.
+- note 75: additional detail about this component.
+- note 76: additional detail about this component.
+- note 77: additional detail about this component.
+- note 78: additional detail about this component.
