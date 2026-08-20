@@ -258,3 +258,17 @@
 # auto line 257 for src/api/routes.py
 # auto line 258 for src/api/routes.py
 # auto line 259 for src/api/routes.py
+# auto line 260 for src/api/routes.py
+# auto line 261 for src/api/routes.py
+# auto line 262 for src/api/routes.py
+# auto line 263 for src/api/routes.py
+# auto line 264 for src/api/routes.py
+# auto line 265 for src/api/routes.py
+# auto line 266 for src/api/routes.py
+# auto line 267 for src/api/routes.py
+# auto line 268 for src/api/routes.py
+# auto line 269 for src/api/routes.py
+# auto line 270 for src/api/routes.py
+# auto line 271 for src/api/routes.py
+# auto line 272 for src/api/routes.py
+# auto line 273 for src/api/routes.py
