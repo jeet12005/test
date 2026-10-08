@@ -280,3 +280,13 @@
 # auto line 279 for src/api/routes.py
 # auto line 280 for src/api/routes.py
 # auto line 281 for src/api/routes.py
+# auto line 282 for src/api/routes.py
+# auto line 283 for src/api/routes.py
+# auto line 284 for src/api/routes.py
+# auto line 285 for src/api/routes.py
+# auto line 286 for src/api/routes.py
+# auto line 287 for src/api/routes.py
+# auto line 288 for src/api/routes.py
+# auto line 289 for src/api/routes.py
+# auto line 290 for src/api/routes.py
+# auto line 291 for src/api/routes.py
