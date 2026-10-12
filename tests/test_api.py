@@ -95,3 +95,11 @@
 # auto line 94 for tests/test_api.py
 # auto line 95 for tests/test_api.py
 # auto line 96 for tests/test_api.py
+# auto line 97 for tests/test_api.py
+# auto line 98 for tests/test_api.py
+# auto line 99 for tests/test_api.py
+# auto line 100 for tests/test_api.py
+# auto line 101 for tests/test_api.py
+# auto line 102 for tests/test_api.py
+# auto line 103 for tests/test_api.py
+# auto line 104 for tests/test_api.py
