@@ -1703,3 +1703,15 @@
 # auto line 1702 for src/core/utils.py
 # auto line 1703 for src/core/utils.py
 # auto line 1704 for src/core/utils.py
+# auto line 1705 for src/core/utils.py
+# auto line 1706 for src/core/utils.py
+# auto line 1707 for src/core/utils.py
+# auto line 1708 for src/core/utils.py
+# auto line 1709 for src/core/utils.py
+# auto line 1710 for src/core/utils.py
+# auto line 1711 for src/core/utils.py
+# auto line 1712 for src/core/utils.py
+# auto line 1713 for src/core/utils.py
+# auto line 1714 for src/core/utils.py
+# auto line 1715 for src/core/utils.py
+# auto line 1716 for src/core/utils.py
