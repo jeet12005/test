@@ -373,3 +373,11 @@
 # auto line 372 for src/auth/login.py
 # auto line 373 for src/auth/login.py
 # auto line 374 for src/auth/login.py
+# auto line 375 for src/auth/login.py
+# auto line 376 for src/auth/login.py
+# auto line 377 for src/auth/login.py
+# auto line 378 for src/auth/login.py
+# auto line 379 for src/auth/login.py
+# auto line 380 for src/auth/login.py
+# auto line 381 for src/auth/login.py
+# auto line 382 for src/auth/login.py
