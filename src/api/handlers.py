@@ -257,3 +257,9 @@
 # auto line 256 for src/api/handlers.py
 # auto line 257 for src/api/handlers.py
 # auto line 258 for src/api/handlers.py
+# auto line 259 for src/api/handlers.py
+# auto line 260 for src/api/handlers.py
+# auto line 261 for src/api/handlers.py
+# auto line 262 for src/api/handlers.py
+# auto line 263 for src/api/handlers.py
+# auto line 264 for src/api/handlers.py
