@@ -128,3 +128,34 @@
 # auto line 127 for src/auth/session.py
 # auto line 128 for src/auth/session.py
 # auto line 129 for src/auth/session.py
+
+SESSION_TIMEOUT_MINUTES = 30
+
+def is_expired(session, now):
+    # a session dies after 30 minutes with no activity
+    idle = (now - session.last_seen).total_seconds() / 60
+    return idle > SESSION_TIMEOUT_MINUTES
+
+def touch(session, now):
+    session.last_seen = now
+    return session
+SESSION_TIMEOUT_MINUTES = 30
+
+def is_expired(session, now):
+    # a session dies after 30 minutes with no activity
+    idle = (now - session.last_seen).total_seconds() / 60
+    return idle > SESSION_TIMEOUT_MINUTES
+
+def touch(session, now):
+    session.last_seen = now
+    return session
+SESSION_TIMEOUT_MINUTES = 30
+
+def is_expired(session, now):
+    # a session dies after 30 minutes with no activity
+    idle = (now - session.last_seen).total_seconds() / 60
+    return idle > SESSION_TIMEOUT_MINUTES
+
+def touch(session, now):
+    session.last_seen = now
+    return session
