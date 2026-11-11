@@ -381,3 +381,43 @@
 # auto line 380 for src/auth/login.py
 # auto line 381 for src/auth/login.py
 # auto line 382 for src/auth/login.py
+
+MAX_FAILED_LOGINS = 5
+
+def too_many_failures(user):
+    # lock the account after 5 wrong passwords in a row
+    return user.failed_logins >= MAX_FAILED_LOGINS
+
+def record_failure(user):
+    user.failed_logins += 1
+    return user
+
+def reset_failures(user):
+    user.failed_logins = 0
+    return user
+MAX_FAILED_LOGINS = 5
+
+def too_many_failures(user):
+    # lock the account after 5 wrong passwords in a row
+    return user.failed_logins >= MAX_FAILED_LOGINS
+
+def record_failure(user):
+    user.failed_logins += 1
+    return user
+
+def reset_failures(user):
+    user.failed_logins = 0
+    return user
+MAX_FAILED_LOGINS = 5
+
+def too_many_failures(user):
+    # lock the account after 5 wrong passwords in a row
+    return user.failed_logins >= MAX_FAILED_LOGINS
+
+def record_failure(user):
+    user.failed_logins += 1
+    return user
+
+def reset_failures(user):
+    user.failed_logins = 0
+    return user

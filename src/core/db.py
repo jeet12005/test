@@ -273,3 +273,8 @@
 # auto line 272 for src/core/db.py
 # auto line 273 for src/core/db.py
 # auto line 274 for src/core/db.py
+
+SESSIONS_TABLE = 'sessions'
+
+def delete_expired_sessions(conn, cutoff):
+    conn.execute(f'DELETE FROM {SESSIONS_TABLE} WHERE last_seen < ?', (cutoff,))
